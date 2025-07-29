@@ -1,0 +1,8 @@
+{
+    "name": "Turkish Providers Repository | @calpdev",
+    "description": "Türkçe içerikli eklenti havuzu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/CalpDev/Kekik-cloudstream/builds/plugins.json"
+    ]
+}
